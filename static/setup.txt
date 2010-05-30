@@ -1,0 +1,6 @@
+ppy = TEMPLATE
+ppy{
+  template = FILE
+  template.file = EXT:popeye\res\template.html
+  
+}
